@@ -6,7 +6,7 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contribution](#contribution)
-  - [Testing](#testing)
+  - [Technologies](#technologies)
   - [Additional Info](#additional-info)
   ## Description:
   For this project we were tasked to create an api for a social network application where users can share thoughts, react, and create new friends. 
@@ -18,8 +18,12 @@
   none
   ## Contribution:
   see usage
-  ## Testing:
-  N/A
+  ## Technologies:
+  - JavaScript
+  - Node.js
+  - MongoDB
+  - Mongoose
+  - Express.js
   ## Additional Info:
   - Github: [Colawrr](https://github.com/Colawrr)
   - Email: Connor.lawrence96@gmail.com 
