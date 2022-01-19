@@ -27,4 +27,5 @@
   ## Additional Info:
   - Github: [Colawrr](https://github.com/Colawrr)
   - Email: Connor.lawrence96@gmail.com 
-  - Video:
+  - [Walkthrough Video](https://user-images.githubusercontent.com/89156347/150234791-63946e69-86d7-462c-8f6a-45defe391664.mp4)
+
